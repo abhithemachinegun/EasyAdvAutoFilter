@@ -203,7 +203,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
     CAPTION = """
 <b><a href=https://t.me/AtoZmoviesflix>{file_name}</a>
 
-⚠️ If Sound is Not Audible Then Play Video On<a href="https://play.google.com/store/apps/details?id=org.videolan.vlc">Vlc Video Player</a>
+⚠️ If Sound is Not Audible Then Play Video On <a href="https://play.google.com/store/apps/details?id=org.videolan.vlc">Vlc Video Player</a>
 
 ▫️ Movie Group : <a href="t.me/AtoZmoviesflix">Click here</a></b>""" 
 
