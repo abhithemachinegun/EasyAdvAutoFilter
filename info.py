@@ -50,7 +50,7 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "cluster0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'AutoFilter')
 
 # Others
-VERIFY = bool(environ.get('VERIFY', False))
+VERIFY = bool(environ.get('VERIFY', True))
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'gplinks.in')
 SHORTLINK_API = environ.get('SHORTLINK_API', 'd0512170691b60126c30f16ebc491c8d04788f7b')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
