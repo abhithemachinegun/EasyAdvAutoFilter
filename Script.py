@@ -205,7 +205,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 ⚠️ If Sound is Not Audible Then Play Video On <a href="https://play.google.com/store/apps/details?id=org.videolan.vlc">Vlc Video Player</a>
 
-▫️ Movie Group : <a href="t.me/AtoZmoviesflix">Click here</a></b>""" 
+▫️ For Download⚡Fast Forward This Movie to This Bot 👉 <a href="t.me/AtoZXtreamBot">AtoZXtreamBot</a></b>""" 
 
     FORCE_SUB = """
 **⚠️ Pʟᴇᴀsᴇ ғᴏʟʟᴏᴡ ᴛʜɪs ʀᴜʟe ⚠️
