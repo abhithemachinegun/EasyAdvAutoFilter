@@ -203,9 +203,11 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
     CAPTION = """
 <b><a href=https://t.me/AtoZmoviesflix>{file_name}</a>
 
-⚠️ If Sound is Not Audible Then Play Video On <a href="https://play.google.com/store/apps/details?id=org.videolan.vlc">Vlc Video Player</a>
+👉 <a href="https://telegra.ph/How-To-Fix-Sound-Issue-01-14">Fix Sound</a>
 
-⭐ For Download⚡Fast,Forward This Movie to This Bot 👉 <a href="t.me/AtoZXtreamBot">AtoZXtreamBot</a></b>""" 
+👉 <a href="https://telegra.ph/Fast-Download-01-14">Fast⚡Download</a>
+
+👉 <a href="https://telegra.ph/Donate-Us-01-14">Donate Us</a></b>""" 
 
     FORCE_SUB = """
 **⚠️ Pʟᴇᴀsᴇ ғᴏʟʟᴏᴡ ᴛʜɪs ʀᴜʟe ⚠️
