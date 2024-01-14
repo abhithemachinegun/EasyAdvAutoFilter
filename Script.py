@@ -203,11 +203,11 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
     CAPTION = """
 <b><a href=https://t.me/AtoZmoviesflix>{file_name}</a>
 
-👉 <a href="https://telegra.ph/How-To-Fix-Sound-Issue-01-14">Fix Sound</a>
+➟ <a href="https://telegra.ph/How-To-Fix-Sound-Issue-01-14">Fix Sound</a>
 
-👉 <a href="https://telegra.ph/Fast-Download-01-14">Fast⚡Download</a>
+➟ <a href="https://telegra.ph/Fast-Download-01-14">Fast⚡Download</a>
 
-👉 <a href="https://telegra.ph/Donate-Us-01-14">Donate Us</a></b>""" 
+➟ <a href="https://telegra.ph/Donate-Us-01-14">Donate Us</a></b>""" 
 
     FORCE_SUB = """
 **⚠️ Pʟᴇᴀsᴇ ғᴏʟʟᴏᴡ ᴛʜɪs ʀᴜʟe ⚠️
