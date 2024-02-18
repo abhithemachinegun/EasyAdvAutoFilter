@@ -54,7 +54,7 @@ async def answer(bot, query):
                                                   chat_id,
                                                   string,
                                                   file_type=file_type,
-                                                  max_results=10,
+                                                  max_results=20,
                                                   offset=offset)
 
     for file in files:
